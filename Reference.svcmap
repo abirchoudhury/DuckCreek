@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="9e272b54-cbec-45e8-8225-1b221304025f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://40.71.250.33/InterviewService/BankService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BankService1.wsdl" MetadataType="Wsdl" ID="fdd1e195-5937-4128-9581-c633b6dc31aa" SourceId="1" SourceUrl="http://40.71.250.33/InterviewService/BankService.svc?wsdl" />
+    <MetadataFile FileName="BankService3.xsd" MetadataType="Schema" ID="ed965e1f-559c-408b-9617-2ca81a998b03" SourceId="1" SourceUrl="http://40.71.250.33/InterviewService/BankService.svc?xsd=xsd2" />
+    <MetadataFile FileName="BankService.disco" MetadataType="Disco" ID="33743e6a-ec4f-463b-a8c6-5dfa9ede28de" SourceId="1" SourceUrl="http://40.71.250.33/InterviewService/BankService.svc?disco" />
+    <MetadataFile FileName="BankService31.xsd" MetadataType="Schema" ID="a5850bdc-b4c4-4fe7-8efe-3886219600a6" SourceId="1" SourceUrl="http://40.71.250.33/InterviewService/BankService.svc?xsd=xsd0" />
+    <MetadataFile FileName="BankService32.xsd" MetadataType="Schema" ID="67ac757e-5b8a-40e6-a932-ff21c723eb0c" SourceId="1" SourceUrl="http://40.71.250.33/InterviewService/BankService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

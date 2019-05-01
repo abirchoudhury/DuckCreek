@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BranchDetails>
+  <Bank Address="1800 S. GLENSTONE AVE" BranchName="CENTRAL BANK OF THE OZARKS" ChangeDate="2016-04-25 00:00:00.000" City="SPRINGFIELD" NewRoutingNumber="086518477" RoutingNumber="081518637" StateCode="MO" ZipCode="65804" ZipExtension="0000" />
+  <Bank Address="PO BOX 9009" BranchName="GREAT SOUTHERN BANK" ChangeDate="2017-01-30 00:00:00.000" City="SPRINGFIELD" NewRoutingNumber="000000000" RoutingNumber="081507125" StateCode="MO" ZipCode="65805" ZipExtension="0000" />
+</BranchDetails>
